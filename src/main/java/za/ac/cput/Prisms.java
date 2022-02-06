@@ -1,5 +1,8 @@
 package za.ac.cput;
 
+//Student Name - Lana Africa
+// Student Number - 216166640
+
 public class Prisms {
     private String volume, surface;
 
